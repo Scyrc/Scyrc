@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Scyrc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scyrc&title_color=333&text_color=777)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scyrc&title_color=333&text_color=777" alt="Scyrc" />
+
 <!--
 **Scyrc/Scyrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
