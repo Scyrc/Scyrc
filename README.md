@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h3>Things I code with</h3>
+<p>
+  <img alt="Cpp" src="https://img.shields.io/badge/c%2B%2B-20-purple?style=for-the-Scyrc&logo=c%2B%2B&logoColor=purple&labelColor=white" />
+  <img alt="Unreal" src="https://img.shields.io/badge/UE5-Gameplay-black?style=for-the-Scyrc&logo=unrealengine&logoColor=black&labelColor=white" />
+</p>
+<h3>github stat</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scyrc&title_color=333&text_color=777" alt="Scyrc" />
 
 <!--
